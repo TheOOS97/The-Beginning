@@ -1,2 +1,3 @@
 # The-Beginning
-My first repository
+My first repository.
+This is my first endevor to begin to learn programming.
